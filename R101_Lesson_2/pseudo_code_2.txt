@@ -1,0 +1,15 @@
+a method that takes an array of strings, and returns a string that is all those strings concatenated together
+
+
+given array of strings
+create a new veriable to and use join method to concat into 1 string
+return result
+
+START
+#given array of string
+
+SET result to array with join
+RETURN  result
+END
+
+

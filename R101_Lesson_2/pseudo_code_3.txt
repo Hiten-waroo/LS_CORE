@@ -1,0 +1,24 @@
+a method that takes an array of integers, and returns a new array with every other element
+
+
+given array of intergers
+iterate through each element and add to new array
+if index is odd skip iteration
+
+
+
+START
+given array of intergers
+
+WHile iterator index is even
+
+ if array index is even
+   map element to new array
+ else
+   skip iteration
+ end
+
+PRINT new array
+
+END
+
