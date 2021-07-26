@@ -9,13 +9,11 @@ return result
 
 
 START
-SET int_1 
-Get int_1
+SET int_1 = Get int_1
 
-SET int_2
-GET Int_2
+SET int_2 = GET Int_2
 
-SET result = add int_1 and int_2
+SET result = int_1 ADD int_2
 
 PRINT result
 END
